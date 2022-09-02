@@ -1,5 +1,5 @@
 <img src="https://gist.githubusercontent.com/Mateusnasciment/d36193d5ae96425e0298ffcdb83cfb1a/raw/35a91225f4200333b83e1a150ed267c6d4f36d21/widget.svg">
-
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 # Widget-USD-EUR-BTC-BRL
 ## python,awesomeap e tkinter
 ### Projeto para iniciantes
